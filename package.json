@@ -1,0 +1,22 @@
+{
+  "name": "maze-solver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KoenKamman/maze-solver.git"
+  },
+  "author": "Koen Kamman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KoenKamman/maze-solver/issues"
+  },
+  "homepage": "https://github.com/KoenKamman/maze-solver#readme",
+  "dependencies": {
+    "evolve-ga": "^2.0.1"
+  }
+}
